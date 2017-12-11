@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/3251207/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/3251207/Documents/GitHub/Lab-repo/App/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_3780e0147279916f3ce7fc19e053f80e44945383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/3251207/Documents/GitHub/Lab-repo/App/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/3251207/Documents/GitHub/Lab-repo/App/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_09f34eab63a5f4208763a3d815e4feecec783fd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/3251207/Documents/GitHub/Lab-repo/App/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/3251207/Documents/GitHub/Lab-repo/App/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_c8f5442bce9fd52c0a2a1d3395108039eb5c2851.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/3251207/Documents/GitHub/Lab-repo/App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/3251207/Documents/GitHub/Lab-repo/App/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_4a77dda914e4cceed6a2db7e171fca7b796fc691.jar" />
+    </item>
+
+</items>
