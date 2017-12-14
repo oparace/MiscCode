@@ -7,5 +7,4 @@ the user must answer 3 simple math questions correctly in order to use the calcu
 if the user answers one or more questions incorrectly then the buttons on the calculator will be disabled. One
 button will be disabled for every incorrect calculation.
 
-Video describing our project:
-https://youtu.be/7zGCYfGB4Ns
+
